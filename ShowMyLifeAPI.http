@@ -1,0 +1,6 @@
+@ShowMyLifeAPI_HostAddress = http://localhost:5192
+
+GET {{ShowMyLifeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
